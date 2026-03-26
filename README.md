@@ -1,6 +1,6 @@
 # Hello, I'm Valantis.
 
-I'm currently a MSc Physics student at SEMFE NTUA.
+I'm currently a PhD Physics student at SEMFE NTUA.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ckaragian&show_icons=true&theme=great-gatsby)
 
